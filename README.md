@@ -7,6 +7,6 @@ cv2.imread() : Used to read the images. By default, the opencv read images in BG
 To get more information, about Color Identification below is the resource.
 
 Sources:
-## 1. https://docs.opencv.org/master/d9/df8/tutorial_root.html
-## 2. https://realpython.com/python-opencv-color-spaces/
-## 3. https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
+#### 1. https://docs.opencv.org/master/d9/df8/tutorial_root.html
+#### 2. https://realpython.com/python-opencv-color-spaces/
+#### 3. https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
